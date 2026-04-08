@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SonarCloud-QA.iml" filepath="$PROJECT_DIR$/SonarCloud-QA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tatuajes_Tattoes_QA.iml" filepath="$PROJECT_DIR$/.idea/Tatuajes_Tattoes_QA.iml" />
     </modules>
   </component>
 </project>
